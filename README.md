@@ -11,7 +11,7 @@ Aimed solely as 'approach plate' chart background for BlueSky ATM airspace simul
 Examples of charts:
 1. 'Approach plate' style:
 
-Data available under releases - given filesizes
+Data available under releases - given filesizes and correct grouping
 
 ![approach_plate_example1](https://github.com/MrAirspace/airspace-charts/assets/144953682/1d8a03d2-7117-4dc9-963f-cc9cb5727a71)
 ![approach_plate_example2](https://github.com/MrAirspace/airspace-charts/assets/144953682/95606663-8317-44bd-90ef-66fd8c7822ca)
