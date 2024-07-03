@@ -3,6 +3,7 @@ Files to host a tileserver for 'approach plate' background type of charts, using
 - config.json
 - style.json
 - mbtiles with the chart data
+Make sure to place the files in the correct directory/file_path as per the specs in the 'config.json' and 'style.json' files!
 
 Primarily aimed as 'approach plate' chart background for BlueSky ATM airspace simulation software.
 
