@@ -18,6 +18,7 @@ Data available under releases - given filesizes
 
 
 2. More chart types to follow - radar type
+
 Data available under releases - given filesizes --> not yet
 
 For tailor-made charts, please contact me.
