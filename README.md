@@ -6,7 +6,9 @@ Files to host a tileserver for 'approach plate' background type of charts, using
 
 Make sure to place the files in the correct directory/file_path as per the specs in the 'config.json' and 'style.json' files!
 
-Aimed solely as 'approach plate' chart background for BlueSky ATM airspace simulation software. Therefore, charts depict topography/terrain, urbanisation and water - relevant features generally included on airspace approach charts.
+Aimed solely as 'approach plate' chart background for BlueSky ATM airspace simulation software. Charts depict topography/terrain and landmarks such as urbanisation as well as water - features generally included on airspace approach charts to support navigation and area recognition.
+
+For rendering performance reasons, topographic features are plotted for upper and medium zoom levels only, though this can be changed by the user in the 'style.json' file.
 
 Examples of charts:
 1. 'Approach plate' style:
