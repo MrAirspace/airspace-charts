@@ -10,6 +10,8 @@ Aimed solely as 'approach plate' chart background for BlueSky ATM airspace simul
 
 For rendering performance reasons, topographic features are plotted for upper and medium zoom levels only, though this can be changed by the user in the 'style.json' file.
 
+For a step-by-step guide how to go from chart files provided in this repository to actually mapping it in BlueSky, please refer to 'Instructions.txt'. This has been tested on Linux, on Windows OS it might be recommended to use Windows Subsystem for Linux (WSL).
+
 Examples of charts:
 1. 'Approach plate' style:
 
