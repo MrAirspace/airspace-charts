@@ -12,21 +12,14 @@ For rendering performance reasons, topographic features are plotted for upper an
 
 For a step-by-step guide how to go from chart files provided in this repository to actually mapping it in BlueSky, please refer to 'Instructions.txt'. This has been tested on Linux, on Windows OS it might be recommended to use Windows Subsystem for Linux (WSL).
 
-Examples of charts:
-1. 'Approach plate' style:
+Data available under releases - given filesizes and correct grouping/versioning.
 
-Data available under releases - given filesizes and correct grouping
+Examples of charts:
 
 ![approach_plate_example1](https://github.com/MrAirspace/airspace-charts/assets/144953682/1d8a03d2-7117-4dc9-963f-cc9cb5727a71)
 ![approach_plate_example2](https://github.com/MrAirspace/airspace-charts/assets/144953682/95606663-8317-44bd-90ef-66fd8c7822ca)
 ![approach_plate_example3](https://github.com/MrAirspace/airspace-charts/assets/144953682/bcfa32c7-55e3-45cf-90f2-d3306610f40c)
 ![approach_plate_example4](https://github.com/MrAirspace/airspace-charts/assets/144953682/2c6abc47-7662-44c9-807f-0c45beba68a2)
-
-
-3. More chart types to follow - radar type
-
-Data available under releases - given filesizes --> not yet
-
 
 
 For tailor-made charts, please contact me.
