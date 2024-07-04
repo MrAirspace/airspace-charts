@@ -1,0 +1,14 @@
+The respective files available under this repository 'releases' can be hosted using openmaptiles tile server:
+1. In your local openmaptiles directory, navigate to the 'data' folder
+2. Insert the 2 mbtiles files
+3. In the subfolder 'styles' (openmaptiles > data > styles), insert the 'style.json' file
+4. In your local openmaptiles directory, navigate to the 'style' folder (different from aforementioned 'styles' folder!)
+5. Insert 'config.json' file
+
+Note: when also using openmaptiles for other purposes instead of only BlueSky map hosting, instead of adding/overwriting the 'style.json' and 'config.json' files, you might want to only add the relevant lines from these files to your own local style and config files!
+
+6. Initialise the terminal/command line (linux) from the context of your openmaptiles folder and run 'sudo make start-tileserver' (this will start the tileserver using openmaptiles and docker)
+7. Thereafter, you can check the chart on localhost:8080
+8. Finally, use the localhost link 'http://localhost:8080/styles/Basic/512/{zoom}/{x}/{y}.png' as input for the BlueSky 'tile_sources' defined in the BlueSky 'settings.cfg' configuration file.
+9. Finally, enable the map in BlueSky using the command 'vis map tiledmap'
+10. You can switch back to the default chart background using the command 'vis map map'
