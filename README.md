@@ -14,6 +14,10 @@ For a step-by-step guide how to go from chart files provided in this repository 
 
 Data available under releases - given filesizes and correct grouping/versioning.
 
+Input data sources:
+- US Government GMTED2010 Digital Elevation Data - Open Source
+- Natural Earth Vector Map Data - Open Source
+
 Examples of charts:
 
 ![approach_plate_example1](https://github.com/MrAirspace/airspace-charts/assets/144953682/1d8a03d2-7117-4dc9-963f-cc9cb5727a71)
