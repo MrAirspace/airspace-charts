@@ -18,7 +18,7 @@ Input data sources:
 - US Government GMTED2010 Digital Elevation Data - Open Source
 - Natural Earth Vector Map Data - Open Source
 
-Examples of charts:
+Examples of composed airspace charts:
 
 ![approach_plate_example1](https://github.com/MrAirspace/airspace-charts/assets/144953682/1d8a03d2-7117-4dc9-963f-cc9cb5727a71)
 ![approach_plate_example2](https://github.com/MrAirspace/airspace-charts/assets/144953682/95606663-8317-44bd-90ef-66fd8c7822ca)
